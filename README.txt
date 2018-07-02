@@ -1,1 +1,1 @@
-Inital code.
+A simple chat using Java Programming Language.
